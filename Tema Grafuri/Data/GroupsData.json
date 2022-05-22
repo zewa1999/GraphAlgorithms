@@ -1,0 +1,304 @@
+{
+  "Groups": [
+    {
+      "GroupName": "10LF111",
+      "GroupSize": 1,
+      "GroupComponents": "10LF111"
+    },
+    {
+      "GroupName": "10LF112",
+      "GroupSize": 1,
+      "GroupComponents": "10LF112"
+    },
+    {
+      "GroupName": "10LF211",
+      "GroupSize": 1,
+      "GroupComponents": "10LF211"
+    },
+    {
+      "GroupName": "10LF212",
+      "GroupSize": 1,
+      "GroupComponents": "10LF212"
+    },
+    {
+      "GroupName": "10LF213",
+      "GroupSize": 1,
+      "GroupComponents": "10LF213"
+    },
+    {
+      "GroupName": "10LF214",
+      "GroupSize": 1,
+      "GroupComponents": "10LF214"
+    },
+    {
+      "GroupName": "10LF311",
+      "GroupSize": 1,
+      "GroupComponents": "10LF311"
+    },
+    {
+      "GroupName": "10LF312",
+      "GroupSize": 1,
+      "GroupComponents": "10LF312"
+    },
+    {
+      "GroupName": "10LF313",
+      "GroupSize": 1,
+      "GroupComponents": "10LF313"
+    },
+    {
+      "GroupName": "10LF411",
+      "GroupSize": 1,
+      "GroupComponents": "10LF411"
+    },
+    {
+      "GroupName": "10LF412",
+      "GroupSize": 1,
+      "GroupComponents": "10LF412"
+    },
+    {
+      "GroupName": "10LF101",
+      "GroupSize": 1,
+      "GroupComponents": "10LF101"
+    },
+    {
+      "GroupName": "10LF201",
+      "GroupSize": 1,
+      "GroupComponents": "10LF201"
+    },
+    {
+      "GroupName": "10LF202",
+      "GroupSize": 1,
+      "GroupComponents": "10LF202"
+    },
+    {
+      "GroupName": "10LF203",
+      "GroupSize": 1,
+      "GroupComponents": "10LF203"
+    },
+    {
+      "GroupName": "10LF301",
+      "GroupSize": 1,
+      "GroupComponents": "10LF301"
+    },
+    {
+      "GroupName": "10LF302",
+      "GroupSize": 1,
+      "GroupComponents": "10LF302"
+    },
+    {
+      "GroupName": "10LF303",
+      "GroupSize": 1,
+      "GroupComponents": "10LF303"
+    },
+    {
+      "GroupName": "10LF401",
+      "GroupSize": 1,
+      "GroupComponents": "10LF401"
+    },
+    {
+      "GroupName": "10LF191",
+      "GroupSize": 1,
+      "GroupComponents": "10LF191"
+    },
+    {
+      "GroupName": "10LF192",
+      "GroupSize": 1,
+      "GroupComponents": "10LF192"
+    },
+    {
+      "GroupName": "10LF291",
+      "GroupSize": 1,
+      "GroupComponents": "10LF291"
+    },
+    {
+      "GroupName": "10LF292",
+      "GroupSize": 1,
+      "GroupComponents": "10LF292"
+    },
+    {
+      "GroupName": "10LF293",
+      "GroupSize": 1,
+      "GroupComponents": "10LF293"
+    },
+    {
+      "GroupName": "10LF391",
+      "GroupSize": 1,
+      "GroupComponents": "10LF391"
+    },
+    {
+      "GroupName": "10LF392",
+      "GroupSize": 1,
+      "GroupComponents": "10LF392"
+    },
+    {
+      "GroupName": "10LF393",
+      "GroupSize": 1,
+      "GroupComponents": "10LF393"
+    },
+    {
+      "GroupName": "10LF491",
+      "GroupSize": 1,
+      "GroupComponents": "10LF491"
+    },
+    {
+      "GroupName": "10MF111",
+      "GroupSize": 1,
+      "GroupComponents": "10MF111"
+    },
+    {
+      "GroupName": "10MF211",
+      "GroupSize": 1,
+      "GroupComponents": "10MF211"
+    },
+    {
+      "GroupName": "10MF212",
+      "GroupSize": 1,
+      "GroupComponents": "10MF212"
+    },
+    {
+      "GroupName": "10MF311",
+      "GroupSize": 1,
+      "GroupComponents": "10MF311"
+    },
+    {
+      "GroupName": "10MF411",
+      "GroupSize": 1,
+      "GroupComponents": "10MF411"
+    },
+    {
+      "GroupName": "10MF101",
+      "GroupSize": 1,
+      "GroupComponents": "10MF101"
+    },
+    {
+      "GroupName": "10MF201",
+      "GroupSize": 1,
+      "GroupComponents": "10MF201"
+    },
+    {
+      "GroupName": "10MF202",
+      "GroupSize": 1,
+      "GroupComponents": "10MF202"
+    },
+    {
+      "GroupName": "10MF301",
+      "GroupSize": 1,
+      "GroupComponents": "10MF301"
+    },
+    {
+      "GroupName": "10MF401",
+      "GroupSize": 1,
+      "GroupComponents": "10MF401"
+    },
+    {
+      "GroupName": "MI1",
+      "GroupSize": 2,
+      "GroupComponents": "10LF111 10LF112"
+    },
+    {
+      "GroupName": "I1",
+      "GroupSize": 4,
+      "GroupComponents": "10LF211 10LF212 10LF213 10LF214"
+    },
+    {
+      "GroupName": "IA1",
+      "GroupSize": 3,
+      "GroupComponents": "10LF311 10LF312 10LF313"
+    },
+    {
+      "GroupName": "IAG1",
+      "GroupSize": 2,
+      "GroupComponents": "10LF411 10LF412"
+    },
+    {
+      "GroupName": "MI2",
+      "GroupSize": 1,
+      "GroupComponents": "10LF101"
+    },
+    {
+      "GroupName": "I2",
+      "GroupSize": 3,
+      "GroupComponents": "10LF201 10LF202 10LF203"
+    },
+    {
+      "GroupName": "IA2",
+      "GroupSize": 3,
+      "GroupComponents": "10LF301 10LF302 10LF303"
+    },
+    {
+      "GroupName": "IAG2",
+      "GroupSize": 1,
+      "GroupComponents": "10LF401"
+    },
+    {
+      "GroupName": "MI3",
+      "GroupSize": 2,
+      "GroupComponents": "10LF191 10LF192"
+    },
+    {
+      "GroupName": "I3",
+      "GroupSize": 3,
+      "GroupComponents": "10LF291 10LF292 10LF293"
+    },
+    {
+      "GroupName": "IA3",
+      "GroupSize": 3,
+      "GroupComponents": "10LF391 10LF392 10LF393"
+    },
+    {
+      "GroupName": "IAG3",
+      "GroupSize": 1,
+      "GroupComponents": "10LF491"
+    },
+    {
+      "GroupName": "SMFA1",
+      "GroupSize": 1,
+      "GroupComponents": "10MF111"
+    },
+    {
+      "GroupName": "TIN1",
+      "GroupSize": 2,
+      "GroupComponents": "10MF211 10MF212"
+    },
+    {
+      "GroupName": "TMIS1",
+      "GroupSize": 1,
+      "GroupComponents": "10MF311"
+    },
+    {
+      "GroupName": "MITB1",
+      "GroupSize": 1,
+      "GroupComponents": "10MF411"
+    },
+    {
+      "GroupName": "SMFA2",
+      "GroupSize": 1,
+      "GroupComponents": "10MF101"
+    },
+    {
+      "GroupName": "TIN2",
+      "GroupSize": 2,
+      "GroupComponents": "10MF201 10MF202"
+    },
+    {
+      "GroupName": "TMIS2",
+      "GroupSize": 1,
+      "GroupComponents": "10MF301"
+    },
+    {
+      "GroupName": "MITB2",
+      "GroupSize": 1,
+      "GroupComponents": "10MF401"
+    },
+    {
+      "GroupName": "I1 + IA1",
+      "GroupSize": 7,
+      "GroupComponents": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "GroupName": "I2 + IA2",
+      "GroupSize": 6,
+      "GroupComponents": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    }
+  ]
+}

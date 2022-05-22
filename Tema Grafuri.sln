@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema Grafuri", "Tema Grafuri\Tema Grafuri.csproj", "{EE901E69-854C-4A23-88A8-05AE3868A416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE901E69-854C-4A23-88A8-05AE3868A416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE901E69-854C-4A23-88A8-05AE3868A416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE901E69-854C-4A23-88A8-05AE3868A416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE901E69-854C-4A23-88A8-05AE3868A416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45D5165-2964-4BB8-B39C-B644AD7495E3}
+	EndGlobalSection
+EndGlobal

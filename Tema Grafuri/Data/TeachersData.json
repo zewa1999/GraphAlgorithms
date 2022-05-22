@@ -1,0 +1,1174 @@
+{
+  "TimetableData": [
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "BD_Curs",
+      "Hours": "2h",
+      "Groups": "I2 + IA2"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "BDD_Curs",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "SSI_Curs",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "SSI_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "ES_Curs",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "ES_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "MBDI_Curs",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Aldea_C_L",
+      "Subject": "MBDI_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "Algebra_Curs",
+      "Hours": "2h",
+      "Groups": "MI1"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "Algebra_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "GD_Curs",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "GD_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "GR_Curs",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Aldea_C_N",
+      "Subject": "GR_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "AF_Curs",
+      "Hours": "2h",
+      "Groups": "I1 + IA1"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "AF_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "AF_Seminar",
+      "Hours": "8h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "PAC_Curs",
+      "Hours": "2h",
+      "Groups": "I2"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "LFC_Seminar",
+      "Hours": "12h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "SMC_Curs",
+      "Hours": "2h",
+      "Groups": "IA2"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "SMC_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "LF_Curs",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "LF_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Baicoianu_A",
+      "Subject": "FSD_Curs",
+      "Hours": "2h",
+      "Groups": "IA3"
+    },
+    {
+      "Teacher": "Balascuta_C_I",
+      "Subject": "MP_Curs",
+      "Hours": "2h",
+      "Groups": "TIN1"
+    },
+    {
+      "Teacher": "Balascuta_C_I",
+      "Subject": "MP_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF211 10MF212"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "MIP_Curs",
+      "Hours": "2h",
+      "Groups": "IA2"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "DAM_Curs",
+      "Hours": "2h",
+      "Groups": "IA3"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "PDM_Curs",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "PDM_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "ARC_Curs",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Bocu_R",
+      "Subject": "ARC_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Carstea_C_G",
+      "Subject": "TSI_Curs",
+      "Hours": "2h",
+      "Groups": "IAG1"
+    },
+    {
+      "Teacher": "Carstea_C_G",
+      "Subject": "IS_Curs",
+      "Hours": "2h",
+      "Groups": "I3"
+    },
+    {
+      "Teacher": "Carstea_C_G",
+      "Subject": "VVSS_Curs",
+      "Hours": "2h",
+      "Groups": "IA3"
+    },
+    {
+      "Teacher": "Carstea_C_G",
+      "Subject": "VVSS_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF391 10LF392 10LF393"
+    },
+    {
+      "Teacher": "Chirila_A",
+      "Subject": "AM_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Chirobocia_I",
+      "Subject": "MIP_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Chirobocia_I",
+      "Subject": "TPD_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "Logica_Curs",
+      "Hours": "2h",
+      "Groups": "I1 + IA1"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AF_Curs",
+      "Hours": "2h",
+      "Groups": "IAG1"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AF_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AF_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AG_Curs",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AG_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AG_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AEG_Curs",
+      "Hours": "2h",
+      "Groups": "10LF411"
+    },
+    {
+      "Teacher": "Ciupala_L_A",
+      "Subject": "AEG_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF411"
+    },
+    {
+      "Teacher": "Cotfas_P_A",
+      "Subject": "SHSI_Curs",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Cotfas_P_A",
+      "Subject": "SHSI_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "FP_Curs",
+      "Hours": "2h",
+      "Groups": "I1 + IA1"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "AG_Curs",
+      "Hours": "2h",
+      "Groups": "I2 + IA2"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "GPA_Curs",
+      "Hours": "2h",
+      "Groups": "TIN2"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "GPA_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF201 10MF202"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "EAGC_Curs",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Deaconu_A_M",
+      "Subject": "EAGC_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Dimitriu_M",
+      "Subject": "AM_Curs",
+      "Hours": "2h",
+      "Groups": "I1 + IA1"
+    },
+    {
+      "Teacher": "Dimitriu_M",
+      "Subject": "AM_Seminar",
+      "Hours": "14h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Duca_D",
+      "Subject": "FP_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Duca_D",
+      "Subject": "Birotica_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Duca_D",
+      "Subject": "MIP_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Duca_D",
+      "Subject": "DAM_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF391 10LF392 10LF393"
+    },
+    {
+      "Teacher": "Dumitrescu_S_R",
+      "Subject": "MIP_Curs",
+      "Hours": "2h",
+      "Groups": "I2"
+    },
+    {
+      "Teacher": "Dumitrescu_S_R",
+      "Subject": "MIP_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Dumitrescu_S_R",
+      "Subject": "TW_Curs",
+      "Hours": "2h",
+      "Groups": "IA3"
+    },
+    {
+      "Teacher": "Dumitrescu_S_R",
+      "Subject": "TW_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF391 10LF392 10LF393"
+    },
+    {
+      "Teacher": "Dumitrescu_S_R",
+      "Subject": "TPD_Curs",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Enache_David_N",
+      "Subject": "PJ_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Enache_David_N",
+      "Subject": "Birotica_Curs",
+      "Hours": "2h",
+      "Groups": "IAG1"
+    },
+    {
+      "Teacher": "Enache_David_N",
+      "Subject": "EIA_Curs",
+      "Hours": "2h",
+      "Groups": "10MF401"
+    },
+    {
+      "Teacher": "Florea_I_L",
+      "Subject": "SO_Curs",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Florea_O_A",
+      "Subject": "Mecanica_Curs",
+      "Hours": "2h",
+      "Groups": "MI3"
+    },
+    {
+      "Teacher": "Florea_O_A",
+      "Subject": "Mecanica_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "ISML_Curs",
+      "Hours": "2h",
+      "Groups": "I2"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "ISML_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "ISML_Seminar",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "DAW_Curs",
+      "Hours": "2h",
+      "Groups": "TIN1"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "DAW_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF211 10MF212"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "CC_Curs",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Galmeanu_H",
+      "Subject": "CC_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Glodan_C",
+      "Subject": "BD_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Gyulai_Z",
+      "Subject": "FSD_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF391 10LF392 10LF393"
+    },
+    {
+      "Teacher": "Ichim_S",
+      "Subject": "MG_Curs",
+      "Hours": "2h",
+      "Groups": "IA2"
+    },
+    {
+      "Teacher": "Ichim_S",
+      "Subject": "MG_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Ilie_D",
+      "Subject": "ACSS_Curs",
+      "Hours": "2h",
+      "Groups": "I3"
+    },
+    {
+      "Teacher": "Ilie_D",
+      "Subject": "ACSS_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF291 10LF292 10LF293"
+    },
+    {
+      "Teacher": "Ilie_D",
+      "Subject": "ACS_Curs",
+      "Hours": "2h",
+      "Groups": "IA3"
+    },
+    {
+      "Teacher": "Ilie_D",
+      "Subject": "ACS_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF391 10LF392 10LF393"
+    },
+    {
+      "Teacher": "Kristaly_D_M",
+      "Subject": "DAW2_Curs",
+      "Hours": "2h",
+      "Groups": "TIN2"
+    },
+    {
+      "Teacher": "Kristaly_D_M",
+      "Subject": "DAW2_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF201 10MF202"
+    },
+    {
+      "Teacher": "Majercsik_L",
+      "Subject": "AF_Laborator",
+      "Hours": "10h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Majercsik_L",
+      "Subject": "AF_Seminar",
+      "Hours": "6h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Majercsik_L",
+      "Subject": "LMC_Seminar",
+      "Hours": "14h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Manea_A_L",
+      "Subject": "FAI_Curs",
+      "Hours": "2h",
+      "Groups": "I1 + IA1"
+    },
+    {
+      "Teacher": "Manea_A_L",
+      "Subject": "FAI_Seminar",
+      "Hours": "14h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Manea_A_L",
+      "Subject": "PLF_Curs",
+      "Hours": "2h",
+      "Groups": "I3"
+    },
+    {
+      "Teacher": "Marin_M",
+      "Subject": "ED_Curs",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Marin_M",
+      "Subject": "ED_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Miculescu_R",
+      "Subject": "AR_Curs",
+      "Hours": "2h",
+      "Groups": "MI1"
+    },
+    {
+      "Teacher": "Miculescu_R",
+      "Subject": "AF_Curs",
+      "Hours": "2h",
+      "Groups": "MI3"
+    },
+    {
+      "Teacher": "Miculescu_R",
+      "Subject": "TF_Curs",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Miculescu_R",
+      "Subject": "TF_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "GS_Curs",
+      "Hours": "2h",
+      "Groups": "MI1"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "GS_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "SM_Curs",
+      "Hours": "2h",
+      "Groups": "MI3"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "SM_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "SM_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "CI_Curs",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Minculete_N",
+      "Subject": "CI_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "AP_Curs",
+      "Hours": "2h",
+      "Groups": "MI1"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "AP_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "AP_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "ProgII_Curs",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "ProgII_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Monescu_V",
+      "Subject": "MIP_Curs",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Moraru_S_A",
+      "Subject": "GRW_Curs",
+      "Hours": "2h",
+      "Groups": "TIN2"
+    },
+    {
+      "Teacher": "Moraru_S_A",
+      "Subject": "GRW_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF201 10MF202"
+    },
+    {
+      "Teacher": "Moraru_S_A",
+      "Subject": "CPD_Curs",
+      "Hours": "2h",
+      "Groups": "TIN2"
+    },
+    {
+      "Teacher": "Moraru_S_A",
+      "Subject": "CPD_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF201 10MF202"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "PJ_Curs",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "PJ_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "BD_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "AG_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "AG_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Nanau_C_S",
+      "Subject": "SO_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF401"
+    },
+    {
+      "Teacher": "Nepotu_G_L",
+      "Subject": "PS_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Nepotu_G_L",
+      "Subject": "PS_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Nicolae_I",
+      "Subject": "DI_Curs",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Nicolae_I",
+      "Subject": "DI_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Nutu_M",
+      "Subject": "IS_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF291 10LF292 10LF293"
+    },
+    {
+      "Teacher": "Nutu_M",
+      "Subject": "PLF_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF291 10LF292 10LF293"
+    },
+    {
+      "Teacher": "Pacurar_C_M",
+      "Subject": "AR_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Pacurar_C_M",
+      "Subject": "AF_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Paler_A",
+      "Subject": "EASO_Curs",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Paler_A",
+      "Subject": "EASO_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Paltanea_E",
+      "Subject": "PS_Curs",
+      "Hours": "2h",
+      "Groups": "MI3"
+    },
+    {
+      "Teacher": "Paltanea_E",
+      "Subject": "FS_Curs",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Paltanea_E",
+      "Subject": "FS_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Paltanea_E",
+      "Subject": "FS_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Paltanea_R",
+      "Subject": "TA_Curs",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Paltanea_R",
+      "Subject": "TA_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    },
+    {
+      "Teacher": "Plajer_I_C",
+      "Subject": "SD_Curs",
+      "Hours": "2h",
+      "Groups": "MI1"
+    },
+    {
+      "Teacher": "Plajer_I_C",
+      "Subject": "SD_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF111 10LF112"
+    },
+    {
+      "Teacher": "Plajer_I_C",
+      "Subject": "AF_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Plajer_I_C",
+      "Subject": "LFC_Laborator",
+      "Hours": "12h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Popa_I",
+      "Subject": "PAC_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Popa_I",
+      "Subject": "SMC_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Popescu_O",
+      "Subject": "TPF_Curs",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Popescu_O",
+      "Subject": "TPF_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Raducanu_D",
+      "Subject": "AM_Curs",
+      "Hours": "2h",
+      "Groups": "IAG1"
+    },
+    {
+      "Teacher": "Raducanu_D",
+      "Subject": "AC_Curs",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Raducanu_D",
+      "Subject": "AC_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Raducanu_D",
+      "Subject": "TGFA_Curs",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Raducanu_D",
+      "Subject": "TGFA_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "PJ_Curs",
+      "Hours": "2h",
+      "Groups": "IAG1"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "DAW_Curs",
+      "Hours": "2h",
+      "Groups": "I3"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TW_Curs",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TIM_Curs",
+      "Hours": "2h",
+      "Groups": "TIN1"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TIM_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF211 10MF212"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TWIP_Curs",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TWIP_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF411"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TRLD_Curs",
+      "Hours": "2h",
+      "Groups": "10MF401"
+    },
+    {
+      "Teacher": "Sangeorzan_L",
+      "Subject": "TRLD_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF401"
+    },
+    {
+      "Teacher": "Sasu_A",
+      "Subject": "SA_Curs",
+      "Hours": "4h",
+      "Groups": "MI1 IA1"
+    },
+    {
+      "Teacher": "Sasu_L_M",
+      "Subject": "ASSE_Curs",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Sasu_L_M",
+      "Subject": "ASSE_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF311"
+    },
+    {
+      "Teacher": "Savin_D",
+      "Subject": "LTM_Curs",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Savin_D",
+      "Subject": "LTM_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF101"
+    },
+    {
+      "Teacher": "Savin_D",
+      "Subject": "TN_Curs",
+      "Hours": "2h",
+      "Groups": "MI3"
+    },
+    {
+      "Teacher": "Savin_D",
+      "Subject": "TN_Seminar",
+      "Hours": "4h",
+      "Groups": "10LF191 10LF192"
+    },
+    {
+      "Teacher": "Soica_S",
+      "Subject": "SA_Curs",
+      "Hours": "2h",
+      "Groups": "I1"
+    },
+    {
+      "Teacher": "Soica_S",
+      "Subject": "SA_Seminar",
+      "Hours": "8h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214"
+    },
+    {
+      "Teacher": "Spridon_D_E",
+      "Subject": "FP_Laborator",
+      "Hours": "8h",
+      "Groups": "10LF211 10LF212 10LF213 10LF214 10LF311 10LF312 10LF313"
+    },
+    {
+      "Teacher": "Spridon_D_E",
+      "Subject": "AG_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Spridon_D_E",
+      "Subject": "AG_Seminar",
+      "Hours": "8h",
+      "Groups": "10LF201 10LF202 10LF203 10LF301 10LF302 10LF303"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "TSI_Laborator",
+      "Hours": "4h",
+      "Groups": "10LF411 10LF412"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "EdFiz_Seminar",
+      "Hours": "8h",
+      "Groups": "10LF101 10LF201 10LF202 10LF203"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "DAW_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF291 10LF292 10LF293"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "TW_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "BDD_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "SI_Curs",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "SI_Laborator",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "SI_Seminar",
+      "Hours": "2h",
+      "Groups": "10LF491"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "MAJ_Curs",
+      "Hours": "2h",
+      "Groups": "10MF401"
+    },
+    {
+      "Teacher": "Tohanean_D",
+      "Subject": "MAJ_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF401"
+    },
+    {
+      "Teacher": "Vasilescu_A",
+      "Subject": "IoT_Curs",
+      "Hours": "2h",
+      "Groups": "I3"
+    },
+    {
+      "Teacher": "Vasilescu_A",
+      "Subject": "IoT_Laborator",
+      "Hours": "6h",
+      "Groups": "10LF291 10LF292 10LF293"
+    },
+    {
+      "Teacher": "Vasilescu_A",
+      "Subject": "PFN_Curs",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Vasilescu_A",
+      "Subject": "PFN_Laborator",
+      "Hours": "2h",
+      "Groups": "10MF301"
+    },
+    {
+      "Teacher": "Voicu_N",
+      "Subject": "TR_Curs",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Voicu_N",
+      "Subject": "TR_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF111"
+    },
+    {
+      "Teacher": "Baicoianu_A, Plajer_I_C",
+      "Subject": "LFC_Curs",
+      "Hours": "2h",
+      "Groups": "I2 + IA2"
+    },
+    {
+      "Teacher": "Demeter_R, Vasilescu_A",
+      "Subject": "BTI_Curs",
+      "Hours": "2h",
+      "Groups": "TIN1"
+    },
+    {
+      "Teacher": "Demeter_R, Vasilescu_A",
+      "Subject": "BTI_Laborator",
+      "Hours": "4h",
+      "Groups": "10MF211 10MF212"
+    },
+    {
+      "Teacher": "Marin_M, Miculescu_R, Paltanea_R, Voicu_N",
+      "Subject": "SS_Seminar",
+      "Hours": "2h",
+      "Groups": "10MF101"
+    }
+  ]
+}

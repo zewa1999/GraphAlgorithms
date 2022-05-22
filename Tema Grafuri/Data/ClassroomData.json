@@ -1,0 +1,79 @@
+{
+  "Classrooms": [
+    {
+      "ClassroomName": "PP1",
+      "ClassroomType": "Regular",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PP5",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PP6",
+      "ClassroomType": "Regular",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PI1",
+      "ClassroomType": "Regular",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PI2",
+      "ClassroomType": "Regular",
+      "ClassroomCapacity": 2
+    },
+    {
+      "ClassroomName": "PII1",
+      "ClassroomType": "Regular",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PII2",
+      "ClassroomType": "Big",
+      "ClassroomCapacity": 3
+    },
+    {
+      "ClassroomName": "PII3",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PII4",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PII5",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PII6",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PII7",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    },
+    {
+      "ClassroomName": "PIII1",
+      "ClassroomType": "VeryBig",
+      "ClassroomCapacity": 7
+    },
+    {
+      "ClassroomName": "PIII2",
+      "ClassroomType": "Big",
+      "ClassroomCapacity": 3
+    },
+    {
+      "ClassroomName": "PIII4",
+      "ClassroomType": "Lab",
+      "ClassroomCapacity": 1
+    }
+  ]
+}

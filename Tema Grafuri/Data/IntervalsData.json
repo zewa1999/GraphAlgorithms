@@ -1,0 +1,94 @@
+{
+  "Intervals": [
+    {
+      "Interval": "LUNI_08-10"
+    },
+    {
+      "Interval": "LUNI_10-12"
+    },
+    {
+      "Interval": "LUNI_12-14"
+    },
+    {
+      "Interval": "LUNI_14-16"
+    },
+    {
+      "Interval": "LUNI_16-18"
+    },
+    {
+      "Interval": "LUNI_18-20"
+    },
+    {
+      "Interval": "MARTI_08-10"
+    },
+    {
+      "Interval": "MARTI_10-12"
+    },
+    {
+      "Interval": "MARTI_12-14"
+    },
+    {
+      "Interval": "MARTI_14-16"
+    },
+    {
+      "Interval": "MARTI_16-18"
+    },
+    {
+      "Interval": "MARTI_18-20"
+    },
+    {
+      "Interval": "MIERCURI_08-10"
+    },
+    {
+      "Interval": "MIERCURI_10-12"
+    },
+    {
+      "Interval": "MIERCURI_12-14"
+    },
+    {
+      "Interval": "MIERCURI_14-16"
+    },
+    {
+      "Interval": "MIERCURI_16-18"
+    },
+    {
+      "Interval": "MIERCURI_18-20"
+    },
+    {
+      "Interval": "JOI_08-10"
+    },
+    {
+      "Interval": "JOI_10-12"
+    },
+    {
+      "Interval": "JOI_12-14"
+    },
+    {
+      "Interval": "JOI_14-16"
+    },
+    {
+      "Interval": "JOI_16-18"
+    },
+    {
+      "Interval": "JOI_18-20"
+    },
+    {
+      "Interval": "VINERI_08-10"
+    },
+    {
+      "Interval": "VINERI_10-12"
+    },
+    {
+      "Interval": "VINERI_12-14"
+    },
+    {
+      "Interval": "VINERI_14-16"
+    },
+    {
+      "Interval": "VINERI_16-18"
+    },
+    {
+      "Interval": "VINERI_18-20"
+    }
+  ]
+}
