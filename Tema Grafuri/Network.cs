@@ -42,12 +42,15 @@ public class Network
 
         //PrintResidualNetwork();
         //asta merge
-        //AODS_MaxFlow();
+        AODS_MaxFlow();
         //_schedule.PrintSchedule();
+        Console.WriteLine("AODS: " + maxFlow);
+        maxFlow = 0;
         //PrintResidualNetwork();
-        //_residualNetwork = (int[,])_capacityNetwork.Clone();
+        _residualNetwork = (int[,])_capacityNetwork.Clone();
         FifoPreflow_MaxFlow();
         _schedule.PrintSchedule();
+        Console.WriteLine("FIFO: " + maxFlow);
 
         Console.WriteLine("\n GATA!");
     }

@@ -1,5 +1,4 @@
-﻿// Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-using AutoMapper;
+﻿using AutoMapper;
 using Newtonsoft.Json;
 using Tema_Grafuri.Dtos;
 
